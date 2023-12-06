@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-0.1.1_alpha-blue)
 
-AutoLab is a proprietary API developed by Altum Labs. It's designed to convert wet lab procedures into a procedural guide in an effortless and accurate way. It accepts a .mp4 file of a wet lab procedure and transforms it into a step-by-step guide.
+AutoLab is a proprietary API developed by __REDACTED__. It's designed to convert wet lab procedures into a procedural guide in an effortless and accurate way. It accepts a .mp4 file of a wet lab procedure and transforms it into a step-by-step guide.
 
 **Please note that this software is not open source and cannot be used without the express permission of Altum Labs.**
 
@@ -97,5 +97,5 @@ chmod +x build.sh
 ## Authors
 
 - **Ricky Fok** - _Initial work_ - [FoksWok](https://github.com/FoksWok)
-- **Izzy Qian** - _Initial work_ - [izzyaltum](https://github.com/izzyaltum)
-- **Grant Rinehimer** - _Initial work_ - [AtomicAudit](https://github.com/AtomicAudit)
+- **__REDACTED__** - _Initial work_ - [izzyaltum](https://github.com/izzyaltum)
+- **__REDACTED__** - _Initial work_ - [AtomicAudit](https://github.com/AtomicAudit)
