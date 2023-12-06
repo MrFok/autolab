@@ -97,5 +97,5 @@ chmod +x build.sh
 ## Authors
 
 - **Ricky Fok** - _Initial work_ - [FoksWok](https://github.com/FoksWok)
-- **__REDACTED__** - _Initial work_ - [izzyaltum](https://github.com/izzyaltum)
-- **__REDACTED__** - _Initial work_ - [AtomicAudit](https://github.com/AtomicAudit)
+- **__REDACTED__** - _Initial work_
+- **__REDACTED__** - _Initial work_ 
